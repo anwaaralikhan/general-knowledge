@@ -1,6 +1,6 @@
 - The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly `20 Hz - 20 kHz`.
 
-What is the estimated no. of cells that the human body is composed of?
+- What is the estimated no. of cells that the human body is composed of?
 Ans: 37.2 trilion
 
 What is the amount of blood contains in the human body?
