@@ -15,10 +15,10 @@
 - What is the largest gland?
 `liver`
 
-How many blood groups in the ABO system?
+- How many blood groups in the ABO system?
 `4`
 
-How many chambers in the human heart?
+- How many chambers in the human heart?
 `4`
 
 - What is the average blood pressure of human being?
@@ -28,43 +28,43 @@ How many chambers in the human heart?
 `1.36 kg`
 
 - What is the name of covering of central nervous system?
-`meninges
+`meninges`
 
 Which part of the brain controls anger, fear, body temperature?
-`hypothalamus
+`hypothalamus`
 
 Which part occupies 80% of the brain?
-`cerebram
+`cerebram`
 
 - What is the function of retina?
-`to create reflection of an image
+`to create reflection of an image`
 
 - What is the master gland of the body?
-`pituitary gland
+`pituitary gland`
 
 strange facts about the human body
 Human skeleton ~~ Image Via: commons.wikimedia.org
 
 - What is the amount of urine that a healthy human passes each day?
-`1500 ml
+`1500 ml`
 
 - What is the Ph of urine?
-`6
+`6`
 
 - What is the weight of heart in an average human being?
-`300 gm
+`300 gm`
 
 facts about human body heart
 Heart ~~ Image Via : en.wikipedia.org
 
 - What is the covering of heart?
-`pericardium
+`pericardium`
 
 How many ribs in the human thorax?
-`12 pairs
+`12 pairs`
 
 - What is the percentage of calcium stored in the bones?
-`97%
+`97%`
 
 you can also check out 62 General Knowledge questions and answers on Universe | Space
 
