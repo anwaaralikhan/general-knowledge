@@ -6,7 +6,7 @@
 - What is the amount of blood contains in the human body?
 `5-6 litres`
 
-With how many bones the human skeletal system is composed of in adult age?
+- With how many bones the human skeletal system is composed of in adult age?
 `206`
 
 - What is the largest organ in the human body?
