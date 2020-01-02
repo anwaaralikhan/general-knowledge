@@ -69,75 +69,75 @@ How many ribs in the human thorax?
 you can also check out 62 General Knowledge questions and answers on Universe | Space
 
 Which acid is secreted from stomach?
-`HCl
+`HCl`
 
 - What is the amount of gastric juice secreted from stomach daily?
-`2 litres
+`2 litres`
 
 - What is the mixed gland of the human body?
-`pancreas
+`pancreas`
 
 - What is the function of thrombocyte?
-`hemostasis
+`hemostasis`
 
 
  
 Who invented human blood grouping system?
-`Carl Landsteiner
+`Carl Landsteiner`
 
 - What kind of blood is carried through artery?
-`oxygenated blood
+`oxygenated blood`
 
 - What is the function of hemoglobin?
-`transport oxygen
+`transport oxygen`
 
 Who invented Insulin?
-`Edward Sharpy Schafer
+`Edward Sharpy Schafer`
 
 - What is considered as the ‘Power house of cell’?
-`Mitochondria
+`Mitochondria`
 
 human body facts for kids
 Mitochondrion structure ~~ Image Via :commons.wikimedia.org
 
 - What is the brain of the cell?
-`Nucleus
+`Nucleus`
 
 Who is the father of anatomy?
-`Aristotle
+`Aristotle`
 
 In which muscle we can find ‘intercalated disc’?
-`cardiac muscle
+`cardiac muscle`
 
 Hoe many vertebrae are there in the human boby?
-`33
+`33`
 
 Which bone is called ‘beauty bone’?
-`clavicle
+`clavicle`
 
 Which is the longest bone in the human body?
-`Femur
+`Femur`
 
 - What is the length of stomach?
-`25 cm
+`25 cm`
 
 How many teeth are there in the human body in adult life?
-`32
+`32`
 
 Which part of the human body produces voice?
-`vocal cord
+`vocal cord`
 
 Which nerve is responsible for olfaction?
-`olfactory nerve
+`olfactory nerve`
 
 - What is the covering of lung?
-`pleura
+`pleura`
 
 Which is the common pathway in between respiratory and gastrointestinal tract?
-`pharynx
+`pharynx`
 
 - What is the equivalent part of penis in female body?
-`clitoris
+`clitoris`
 
 - What is the cause of hardness in erected penis?
 `Increased blood
