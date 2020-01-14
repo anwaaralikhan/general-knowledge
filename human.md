@@ -1,5 +1,3 @@
-- The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly `20 Hz - 20 kHz`.
-
 1.	The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly `20 Hz - 20 kHz`.
 
 2.	What is the estimated no. of cells that the human body is composed of?
